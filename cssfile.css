@@ -6,3 +6,9 @@ title{
 body{
 	background-color: pink;
 }
+
+h1{
+	font-family: 'Sacramento', cursive;
+  	font-size: 5.625rem;
+  	color: #112D4E;
+}
